@@ -1,4 +1,5 @@
 # Central Bank Code Repositories
+[![DOI](https://zenodo.org/badge/596103165.svg)](https://zenodo.org/badge/latestdoi/596103165)
 
 ## Objective
 The goal of this repository is to list official central bank publicly available code repositories.
