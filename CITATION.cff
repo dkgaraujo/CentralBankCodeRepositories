@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Suggested citation information is provided below."
+authors:
+- family-names: "Araujo"
+  given-names: "Douglas"
+  orcid: "https://orcid.org/0000-0001-8070-6828"
+- family-names: "Sirello"
+  given-names: "Olivier"
+title: "Central Bank Code Repositories"
+version: 1.0.0
+doi: 10.5281/zenodo.7595054
+date-released: 2023-02-01
+url: "https://github.com/dkgaraujo/CentralBankCodeRepositories"
